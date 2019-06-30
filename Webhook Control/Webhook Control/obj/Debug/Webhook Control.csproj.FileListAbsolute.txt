@@ -1,0 +1,10 @@
+C:\Users\Jakub\source\repos\Webhook Control\Webhook Control\bin\Debug\Webhook Control.exe.config
+C:\Users\Jakub\source\repos\Webhook Control\Webhook Control\bin\Debug\Webhook Control.exe
+C:\Users\Jakub\source\repos\Webhook Control\Webhook Control\bin\Debug\Webhook Control.pdb
+C:\Users\Jakub\source\repos\Webhook Control\Webhook Control\obj\Debug\Webhook_Control.Form1.resources
+C:\Users\Jakub\source\repos\Webhook Control\Webhook Control\obj\Debug\Webhook_Control.Properties.Resources.resources
+C:\Users\Jakub\source\repos\Webhook Control\Webhook Control\obj\Debug\Webhook Control.csproj.GenerateResource.cache
+C:\Users\Jakub\source\repos\Webhook Control\Webhook Control\obj\Debug\Webhook Control.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\source\repos\Webhook Control\Webhook Control\obj\Debug\Webhook Control.exe
+C:\Users\Jakub\source\repos\Webhook Control\Webhook Control\obj\Debug\Webhook Control.pdb
+C:\Users\Jakub\source\repos\Webhook Control\Webhook Control\obj\Debug\Webhook Control.csprojAssemblyReference.cache
